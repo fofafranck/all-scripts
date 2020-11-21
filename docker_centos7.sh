@@ -3,10 +3,10 @@
 
 #Description: Docker installation on CentOS7 
 
-#AUthor: Serge K
+#AUthor: Fabrice F
 #Date: sept 2019
 #Modified: Jan 2020
-#Modified: May 2020
+#Modified: Nov 2020
 
 
 ### Uninstall old versions if exist on the system 

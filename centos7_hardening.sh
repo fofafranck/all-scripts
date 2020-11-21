@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ## Hardenning script for centos7 servers
-##Author: Serge March 2019
-##Modified: Jun 2020
+##Author: Fabrice March 2019
+##Modified: Jul 2020
 
 AUDITDIR="/tmp/$(HOSTNAME)_audit"
 TIME="$(date +%F_%T)"

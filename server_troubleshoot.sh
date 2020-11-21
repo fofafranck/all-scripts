@@ -2,7 +2,7 @@
 
 
 #Describtion: Set a CentOS 7 server for troubleshooting practice.
-#Author: Serge 
+#Author: Fabrice 
 #Date: August 2020
 
 
